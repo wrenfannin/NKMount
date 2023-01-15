@@ -1,5 +1,5 @@
 # NKMount 
-## Footplate Mount for Strokecoach and Speedcoach
+## Footplate Mounts for Strokecoach and Speedcoach
 All holes and bolts are designed for M6 (standard footplate screw size)![image](https://user-images.githubusercontent.com/64269332/212560173-478e21f6-9177-4103-8ea7-2eb894817f65.png)
 
 ![Screen](https://user-images.githubusercontent.com/64269332/212378608-c598fd0b-91d8-4d33-b187-0c2aab11ff62.png)
